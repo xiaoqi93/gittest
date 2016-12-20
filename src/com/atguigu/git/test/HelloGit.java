@@ -6,7 +6,13 @@ public class HelloGit {
 		//123
 		System.out.println("hello github ,第一次提交");
 		System.out.println("hello github ,第二次提交");
+
 		//哈哈哈
         System.out.println("hello github ,收到第一次请求");
+
+                System.out.println("hello github ,收到第一次请求");
+                 System.out.println("hello github ,第二次修改");
+                 //xueshaojie
+                 //github.com/xiaoqi93/gittest
 	}
 }
